@@ -1,4 +1,4 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h2>Name: Navinkumar V</h2>
 <h2>Register Number: 212223230141</h2>
 <H2>Aim:</H2>
